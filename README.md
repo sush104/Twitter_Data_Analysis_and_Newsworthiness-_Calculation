@@ -13,3 +13,7 @@ scoring method based on this dataset.
 
 (iii) Use the above newsworthy scoring techniques to analyse the geo-tagged data set given above
 and discuss the results
+![Q3_heatmap](https://user-images.githubusercontent.com/43604669/180667363-8b38669d-5b91-433a-9d35-06d04faa8e79.png)
+![Q3_histogram](https://user-images.githubusercontent.com/43604669/180667364-bbbb4e5c-1f6f-4762-8f93-84975cde8c95.png)
+![Q1_heatmap](https://user-images.githubusercontent.com/43604669/180667365-a816fe51-c5ed-41ae-ad7f-cbad9e8271e6.png)
+![Q1_histogram](https://user-images.githubusercontent.com/43604669/180667366-37580f3b-958b-4e0c-8aa7-3b39cffe07c8.png)
