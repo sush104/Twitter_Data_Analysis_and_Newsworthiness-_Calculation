@@ -2,6 +2,7 @@
 Twitter data as in tweets analysis and newsworthiness calculation
 
 Around 2000-5000 tweets from London/UK is in the Data directory. It is in json format.
+
 (i) A data set will be given to you (In the Data folder teams). Develop software to organise tweets into
 grids of 1km x 1km. Draw charts or figures to analyse the distribution of data.
 The coordinate system we used is
